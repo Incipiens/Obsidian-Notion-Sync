@@ -1,0 +1,5 @@
+- [x] Wake up and start the day
+- [x] Go to the gym
+- [x] Write an article: "I used Python to sync my Obsidian to-do list with Notion, and you can too"
+- [x] Go grocery shopping
+- [ ] Pack my bag for the next day
